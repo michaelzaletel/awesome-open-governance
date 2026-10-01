@@ -28,6 +28,8 @@ A curated list of high-quality tools, platforms, datasets, and organizations pro
 - [Follow the Money](https://followthemoney.org/) – Investigations and data on political and corporate influence.
 - [Transparency International](https://www.transparency.org/) – Global movement against corruption and for accountability.
 - [Open Contracting Partnership](https://www.open-contracting.org/) – Open data standards and tools for public procurement transparency.
+- [US Federal Government Directory](https://www.pelicanorange.com) – Open directory of the U.S. federal government: congressional voting records, FEC fundraising and netted donor data, stock trades, social media followers, committee rosters, and 2026 race ratings, built from official public sources.
+
 
 ## Civic Tech Platforms
 
